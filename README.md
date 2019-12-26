@@ -1,6 +1,6 @@
 # Shikra EEPROM Programming
 
-**Linker3000 fork: Fixed 'Resource busy' error**
+**Linker3000 fork: Updated the code to fix the 'Resource busy' error - no need to rmmod anything now!**
 
 ## Requirements
 
