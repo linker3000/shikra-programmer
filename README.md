@@ -1,6 +1,6 @@
 # Shikra EEPROM Programming
 
-**Linker3000 fork: Updated the code to fix the 'Resource busy' error - no need to rmmod anything now!**
+**Linker3000 forked from the original by Xipiter https://github.com/Xipiter/shikra-programmer: The code here has been updated to fix the 'Resource busy' error - no need to rmmod the ftdi_sio kernel module now!**
 
 ## Requirements
 
