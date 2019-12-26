@@ -1,5 +1,7 @@
 # Shikra EEPROM Programming
 
+**Linker3000 fork: Fixed 'Resource busy' error**
+
 ## Requirements
 
 1. Install Libusb: `sudo apt-get install libusb-dev` on linux. OSX can skip this step.
